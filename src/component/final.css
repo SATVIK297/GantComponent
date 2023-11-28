@@ -1,0 +1,7 @@
+.filterId{
+    display: flex;
+}
+.select{
+    max-width: 297px;
+    padding-right: 2rem;
+}
